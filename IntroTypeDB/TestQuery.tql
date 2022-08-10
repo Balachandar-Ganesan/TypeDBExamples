@@ -1,0 +1,3 @@
+match $x isa thing;
+match $customer  isa person, has first-name "Melli",has phone-number $phone-number,has last-name $last-name;
+get $phone-number,$last-name;

@@ -1,0 +1,7 @@
+define
+name sub attribute,
+      value string;
+    
+       company sub entity,
+        owns name;
+

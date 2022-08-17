@@ -1,0 +1,1 @@
+typedb-loader load -tdb localhost:1729 -c config.json -db TypeDBLoader -cm

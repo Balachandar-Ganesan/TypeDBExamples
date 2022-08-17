@@ -1,0 +1,21 @@
+define
+    first-name sub attribute,
+      value string;
+    last-name sub attribute,
+      value string;
+    phone-number sub attribute,
+      value string;
+    city sub attribute,
+      value string;
+    age sub attribute,
+      value long;
+    
+
+    person sub entity,
+        owns first-name,
+        owns last-name,
+        owns phone-number,
+        owns city,
+        owns age;
+
+    

@@ -1,0 +1,32 @@
+{
+  "globalConfig": {
+    "separator": ',',
+    "rowsPerCommit": 50,
+    "schema": "schema-company.gql",
+
+    "parallelisation": 4
+     },
+  
+  "entities": {
+    "company": {
+      "data": [
+        "Company.csv"
+        
+      ],
+      "config": {
+        "separator": ",",
+        "rowsPerCommit": 50
+      },
+      "insert": {
+        "entity": "company",
+        "ownerships": [
+          {
+            "attribute": "name",
+            "column": "name",
+            "required": true
+          }
+        ]
+      }
+    }
+  }
+}

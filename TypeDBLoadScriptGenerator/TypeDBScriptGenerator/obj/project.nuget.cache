@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NTpIZcdLjDqQqe9rarZ1YHtQH2Rck7oPLLiBT3y9GsMNj641HZVnURxvvMPo+gZU7/phY4bRBZRbw6aF358hTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\Downloads\\Vaticle\\TypeDBScriptGenerator\\TypeDBScriptGenerator\\TypeDBScriptGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\filehelpers\\3.5.1\\filehelpers.3.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

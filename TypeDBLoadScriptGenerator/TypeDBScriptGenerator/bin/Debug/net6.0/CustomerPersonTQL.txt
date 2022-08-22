@@ -1,0 +1,2 @@
+match $company isa company, has name "FreeCalls-A"; $customer isa person, has phone-number "911234567890"; insert (provider: $company, customer: $customer) isa contract;
+match $company isa company, has name "FreeCalls-B"; $customer isa person, has phone-number "910123456789"; insert (provider: $company, customer: $customer) isa contract;

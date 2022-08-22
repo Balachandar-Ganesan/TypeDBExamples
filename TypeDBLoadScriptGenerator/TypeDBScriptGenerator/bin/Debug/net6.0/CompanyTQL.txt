@@ -1,0 +1,2 @@
+insert $company isa company,has name  "FreeCalls-A";
+insert $company isa company,has name  "FreeCalls-B";

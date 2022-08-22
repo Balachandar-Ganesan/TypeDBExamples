@@ -1,0 +1,2 @@
+insert $person isa person,has phone-number  "911234567890",has first-name  "A",has last-name  "B",has city  "Chennai",has age  55;
+insert $person isa person,has phone-number  "910123456789",has first-name  "C",has last-name  "D",has city  "Chennai",has age  52;

@@ -1,0 +1,17 @@
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\bin\Debug\net6.0\TypeDBScriptGenerator.exe
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\bin\Debug\net6.0\TypeDBScriptGenerator.deps.json
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\bin\Debug\net6.0\TypeDBScriptGenerator.runtimeconfig.json
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\bin\Debug\net6.0\TypeDBScriptGenerator.dll
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\bin\Debug\net6.0\TypeDBScriptGenerator.pdb
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\bin\Debug\net6.0\FileHelpers.dll
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\TypeDBScriptGenerator.csproj.AssemblyReference.cache
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\TypeDBScriptGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\TypeDBScriptGenerator.AssemblyInfoInputs.cache
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\TypeDBScriptGenerator.AssemblyInfo.cs
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\TypeDBScriptGenerator.csproj.CoreCompileInputs.cache
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\TypeDBScriptGenerator.csproj.CopyComplete
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\TypeDBScriptGenerator.dll
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\refint\TypeDBScriptGenerator.dll
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\TypeDBScriptGenerator.pdb
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\TypeDBScriptGenerator.genruntimeconfig.cache
+C:\Data\Downloads\Vaticle\TypeDBScriptGenerator\TypeDBScriptGenerator\obj\Debug\net6.0\ref\TypeDBScriptGenerator.dll

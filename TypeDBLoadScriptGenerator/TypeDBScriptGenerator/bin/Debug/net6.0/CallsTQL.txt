@@ -1,0 +1,2 @@
+match $caller isa person, has phone-number "911234567890"; $callee isa person, has phone-number "910123456789"; insert $call(caller: $caller, callee: $callee) isa call; $call has started-at 2022-09-16T22:24:19; $call has duration 55;
+match $caller isa person, has phone-number "910123456789"; $callee isa person, has phone-number "911234567890"; insert $call(caller: $caller, callee: $callee) isa call; $call has started-at 2022-08-16T22:24:19; $call has duration 52;

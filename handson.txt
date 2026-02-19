@@ -1,0 +1,13 @@
+To establish a solid foundation for GenAI principles, we covered the following topics with accompanying working code examples.
+
+Developing a neural network deep learning model from the ground up with vector embedding. Demonstrating PyTorch and TensorFlow with a Working Example. Working Demo with PyTorch and TensorFlow
+
+Using open source models from Hugging Face. Defog SQLCoder Working Demo Working Demo with Defog SQLCoder
+
+Methods for prompting and improving GenAI model responses. Demonstration with ContextGem
+
+Using AI agents with Generative AI models to accomplish tasks. Demonstration with CrewAI team. Working Demo with CrewAI
+
+Utilizing GenAI models for Vibe Coding techniques. Mistral AI Working Demo Working Demo with Mistral AI
+
+Utilizing Transformer Models and the AdamW Optimizer for Enhanced Language Translation. Demonstration of the BERT model in action. Working Demo with BERT model

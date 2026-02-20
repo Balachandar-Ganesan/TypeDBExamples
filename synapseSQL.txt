@@ -1,0 +1,26 @@
+-- This is auto-generated code
+with racePopulationCTE as
+(SELECT
+    race,
+    sum(population) as racePopulation
+FROM
+    OPENROWSET(
+        BULK     'https://azureopendatastorage.blob.core.windows.net/censusdatacontainer/release/us_population_zip/year=*/*.parquet',
+        FORMAT = 'parquet'
+    )
+    AS [result]
+    Group by Race
+    )
+
+/*SELECT
+top 10 *
+from racePopulationCTE*/
+
+
+
+SELECT
+race, 
+RANK() OVER (ORDER BY racePopulation DESC) AS PopulationRank,
+racePopulation
+
+from racePopulationCTE
